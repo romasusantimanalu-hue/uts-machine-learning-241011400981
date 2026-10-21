@@ -5,7 +5,7 @@ Repositori ini dibuat untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah **M
 ## 👤 Identitas Mahasiswa
 * **Nama:** Roma Susanti Manalu
 * **NIM:** 241011400981
-* **Kelas:** 05PLM004
+* **Kelas:** 05TPLM004
 * **Program Studi:** Teknik Informatika
 
 ---
